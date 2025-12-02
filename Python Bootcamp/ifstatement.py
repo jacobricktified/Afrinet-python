@@ -1,6 +1,8 @@
 num1=2
 if num1==2:
     print("true")
+elif num1 ==0:
+    print ("this is zero")
 else:
     print("false")
 
